@@ -1,4 +1,4 @@
-# api_services
+# flutter_api_services
 
 A plug-and-play HTTP client for Flutter. One import, zero boilerplate.
 
@@ -30,7 +30,7 @@ Plug in your URL, method, and body — it handles everything else: auth tokens, 
 ```yaml
 # pubspec.yaml
 dependencies:
-  api_services:
+  flutter_api_services:
     git:
       url: https://github.com/yourusername/flutter_api_services.git
 ```
