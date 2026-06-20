@@ -30,7 +30,7 @@ Plug in your URL, method, and body — it handles everything else: auth tokens, 
 ```yaml
 # pubspec.yaml
 dependencies:
-  flutter_api_services:
+  api_services:
     git:
       url: https://github.com/yourusername/flutter_api_services.git
 ```
