@@ -1,4 +1,4 @@
-# flutter_api_services
+# api_services
 
 A plug-and-play HTTP client for Flutter. One import, zero boilerplate.
 
